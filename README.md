@@ -1,11 +1,11 @@
 # Amazon
 
-Amazon clone Html CSS based project.
+Amazon clone Html CSS-based project.
 
 
 # Amazon Clone
 
-
+Amazon clone frontend.
 
 ## Description
 
@@ -15,7 +15,7 @@ This is a simple Amazon clone project created using HTML and CSS. It replicates 
 ## Features
 
 - Responsive design to adapt to different screen sizes.
-- Navigation bar with a logo, search bar, and user-related links.
+- Navigation bar with a logo, and search bar.
 - Product boxes showcasing different categories with images and titles.
 - Footer with useful links and copyright information.
 
@@ -28,7 +28,6 @@ This is a simple Amazon clone project created using HTML and CSS. It replicates 
 
 - Browse different product categories by clicking on the product boxes.
 - Use the search bar to search for specific products.
-- Click on the "Hello, sign in" link to access account-related features.
 - Explore the footer for additional links and information.
 
 ## Known Issues
@@ -36,13 +35,6 @@ This is a simple Amazon clone project created using HTML and CSS. It replicates 
 - Some links and features are non-functional as this is just a front-end clone.
 - The project doesn't have complete Amazon functionality and is intended for educational purposes only.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or want to improve the project, feel free to create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
