@@ -45,6 +45,9 @@ This is a simple Amazon clone project created using HTML and CSS. It replicates 
 
 For any questions or suggestions regarding this project, please contact mail to: paramkukde2@gmail.com.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
 ---
 
 *Note: The screenshot and preview.gif should be updated with appropriate images representing your Amazon clone project.*
