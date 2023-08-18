@@ -1,4 +1,5 @@
 # Amazon
+https://amazon-by-paramkukde.netlify.app/
 
 Amazon clone Html CSS-based project.
 
